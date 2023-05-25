@@ -13,3 +13,9 @@ cme
 Now make your keygen. Profit.
 
 by micronn
+
+## A video!
+
+Here is a video which explains how this works: https://www.youtube.com/watch?v=0qTm9v1Klvs
+
+Thanks Ricardo!
